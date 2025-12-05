@@ -1,0 +1,3 @@
+from = "Hoang", to = "An", amount = 10
+from = "Duong", to = "Hoang", amount = 15
+from = "An", to = "Duong", amount = 12

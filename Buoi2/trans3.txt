@@ -1,0 +1,6 @@
+id = "hskad", size = 250, fee = 2500
+id = "jhjk", size = 150, fee = 1500
+id = "cac", size = 400, fee = 80000
+id = "ueoie", size = 400, fee = 120000
+id = "jkasf", size = 700, fee = 70000
+id = "sdff", size = 150, fee = 60000
